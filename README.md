@@ -1,6 +1,5 @@
 # yukicoder_8096
-Hidden Mazeの配布物です
-
+2022/6/12 に出題される Hidden Maze の配布物です。
 
 input.cpp ... テストケース生成プログラムです。
 
