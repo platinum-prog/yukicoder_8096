@@ -1,4 +1,4 @@
-順位	ユーザー名		スコア	
+順位	ユーザー名	スコア	
 1	square1001	90955	
 2	trineutron	89808	
 3	highjump	89777	
@@ -27,15 +27,15 @@
 26	Risen		56402	
 27	komori3		49859	
 28	kyo1		41866	
-29	brthyyjp		36950	
+29	brthyyjp	36950	
 30	FplusFplusF	20578	
 31	plcherrim	16973	
-32	a9ua1i0n		13073	
+32	a9ua1i0n	13073	
 33	Titan		5231	
 34	inani_waon	3968	
 35	hiikunZ		1264	
 36	uwi		0	
-37	ntk-ta01		0	
+37	ntk-ta01	0	
 38	akakimidori	0	
 39	kys		0	
 40	sca1l		0	
