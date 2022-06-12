@@ -1,7 +1,7 @@
 順位	ユーザー名		スコア	
 1	square1001	90955	
 2	trineutron	89808	
-3	highjump		89777	
+3	highjump	89777	
 4	butsurizuki	89325	tester
 5	どらら		89238	
 6	takumi152	88008	
