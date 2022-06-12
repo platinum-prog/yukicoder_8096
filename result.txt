@@ -10,9 +10,9 @@
 9	terry_u16	83107	
 10	Haa		82298	
 11	g4np0n		79156	
-12	platinum		78002	writer
+12	platinum	78002	writer
 13	t33f		77712	
-14	merom686		77432	
+14	merom686	77432	
 15	bowwowforeach	76326	
 16	tails		75598	
 17	mtsd		74857	
@@ -21,9 +21,9 @@
 20	EvbCFfp1XB	69729	
 21	mai		67965	
 22	wanui		67660	
-23	takytank		67504	
+23	takytank	67504	
 24	hamamu		67198	
-25	netyo715		66939	
+25	netyo715	66939	
 26	Risen		56402	
 27	komori3		49859	
 28	kyo1		41866	
